@@ -1,22 +1,5 @@
 # 🚀 Static Website DevOps Project
 
-<div align="center">
-
-![DevOps Banner](https://img.shields.io/badge/Project%20Type-DevOps%20%26%20Static%20Website-blueviolet?style=for-the-badge)
-
-[![GitHub stars](https://img.shields.io/github/stars/hs2002-18/Static-Website-Devops-Project?style=for-the-badge)](https://github.com/hs2002-18/Static-Website-Devops-Project/stargazers)
-
-[![GitHub forks](https://img.shields.io/github/forks/hs2002-18/Static-Website-Devops-Project?style=for-the-badge)](https://github.com/hs2002-18/Static-Website-Devops-Project/network)
-
-[![GitHub issues](https://img.shields.io/github/issues/hs2002-18/Static-Website-Devops-Project?style=for-the-badge)](https://github.com/hs2002-18/Static-Website-Devops-Project/issues)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/hs2002-18/Static-Website-Devops-Project?style=for-the-badge)](https://github.com/hs2002-18/Static-Website-Devops-Project/commits/master)
-
-**A simple static website coupled with a robust DevOps pipeline for automated deployment.**
-
-[Live Demo](https://hs2002-18.github.io/Static-Website-Devops-Project/) <!-- TODO: Verify this is the correct GitHub Pages URL or replace with actual deployment link -->
-
-</div>
 
 ## 📖 Overview
 
@@ -125,34 +108,9 @@ The `.github/workflows/` directory contains the CI/CD pipeline. Pushes to the `m
 -   GitHub Actions will automatically pick up the changes, run the defined workflow, and deploy the updated static website.
 -   Monitor the progress and status of your deployments under the "Actions" tab in your GitHub repository.
 
-## 🤝 Contributing
+## 🤝 Author
+Harsh Shrimali
 
-We welcome contributions to this project, whether it's improving the static website content or enhancing the DevOps pipeline.
-
-### Steps to Contribute:
-
-1.  **Fork the repository.**
-2.  **Create a new branch** (`git checkout -b feature/your-feature-name`).
-3.  **Make your changes.**
-4.  **Commit your changes** (`git commit -m 'feat: Add new feature'`).
-5.  **Push to your branch** (`git push origin feature/your-feature-name`).
-6.  **Open a Pull Request** to the `master` branch of this repository.
-
-Please ensure your code adheres to standard web development best practices.
-
-## 📄 License
-
-This project is not explicitly licensed. <!-- TODO: Consider adding an open-source license like MIT or Apache 2.0 and update this section. -->
-
-## 🙏 Acknowledgments
-
--   Authored by [hs2002-18](https://github.com/hs2002-18)
-
----
-
-<div align="center">
-
-**⭐ Star this repo if you find it helpful!**
 
 </div>
 
